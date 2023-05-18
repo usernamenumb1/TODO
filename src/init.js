@@ -6,6 +6,5 @@ export default () => {
     modalWindow.style = {
       display: "block",
     };
-    console.log(modalWindow);
   });
 };
